@@ -2,7 +2,7 @@
 
 Recreated from EmailLove mockup
 
-This Newsletter is build using HTML and CSS inlined
+This Newsletter Email is build using HTML and CSS inlined
 
 live link: https://devmoments.github.io/newsletter-email-musicbed/
 
