@@ -1,6 +1,6 @@
 # newsletter-email-musicbed
 
-Recreated from EmailLove mockup
+Recreated from EmailLove 
 
 This Newsletter Email is build using HTML and CSS inlined
 
