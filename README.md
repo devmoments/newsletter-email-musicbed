@@ -1,6 +1,8 @@
 # newsletter-email-musicbed
 
-Was recreated from EmailLove using HTML and CSS 
+Recreated from Really EmailLove template
+
+This transactional email is build using HTML and CSS inlined
 
 live link: https://devmoments.github.io/newsletter-email-musicbed/
 
