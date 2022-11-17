@@ -1,6 +1,6 @@
 # newsletter-email-musicbed
 
-Recreated from Really EmailLove template
+Recreated from EmailLove mockup
 
 This transactional email is build using HTML and CSS inlined
 
